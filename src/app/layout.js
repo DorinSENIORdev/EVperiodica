@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "EVperiodica",
-  description: "Starter Next.js pentru proiectul EVperiodica",
+  title: "EVperiodica To Do App",
+  description: "Aplicatie To Do in Next.js cu CRUD si localStorage",
 };
 
 export default function RootLayout({ children }) {
